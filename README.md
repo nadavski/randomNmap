@@ -1,2 +1,35 @@
 # randomNmap
 a basic python script to randomize Nmap scan ports and ip's
+
+# Requirements
+python3
+
+# How does it works?
+this script is a really simple python script that takes an ip list and preform nmap scan on them.
+the fun part here is that it randomize the order of the scan.
+instead of testing all ports on one host then moving to another, it's shuffle the ports and ip list to create a random order.
+the result may help you avoid detection, and also ease the "potenital damage" of bombing old hosts with tons of ports scans.
+
+# How to install
+1. git clone the project
+```
+git clone
+cd randomNmap
+```
+3. install the requirements
+```
+pip3 install requirements.txt
+```
+
+
+
+# Usage
+1.to use this script load the ip_list.txt file with all the ip's you found on your target (only ip's, no domains for now..)
+2. if you want to scan only 1000 most common ports run the script with:
+```
+python3 main.py
+```
+or if you want to scan all ports (0-65535) run it with:
+```
+python3 main.py --heavy
+```
