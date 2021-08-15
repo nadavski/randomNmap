@@ -13,7 +13,7 @@ the result may help you avoid detection, and also ease the "potenital damage" of
 # How to install
 1. git clone the project
 ```
-git clone
+git clone https://github.com/r03i98/randomNmap.git
 cd randomNmap
 ```
 3. install the requirements
