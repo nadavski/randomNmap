@@ -33,3 +33,8 @@ or if you want to scan all ports (0-65535) run it with:
 ```
 python3 main.py --heavy
 ```
+<h3>Changes</h3>
+<table border="1">
+<tr><th>Change Description</th><th>Date</th></tr>
+<tr><td style='color: #35;'>Update version- 2025-01-12 11:48:29</td><td>2025-01-12 11:48:29</td></tr>
+</table>
