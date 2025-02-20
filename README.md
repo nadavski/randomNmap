@@ -78,3 +78,8 @@ python3 main.py --heavy
 <tr><th>Change Description</th><th>Date</th></tr>
 <tr><td style='color: #32;'>Update version- 2025-02-20 19:52:16</td><td>2025-02-20 19:52:16</td></tr>
 </table>
+<h3>Changes</h3>
+<table border="1">
+<tr><th>Change Description</th><th>Date</th></tr>
+<tr><td style='color: #36;'>Update version- 2025-02-20 19:59:18</td><td>2025-02-20 19:59:18</td></tr>
+</table>
